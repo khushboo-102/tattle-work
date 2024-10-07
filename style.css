@@ -189,9 +189,9 @@
  }
 
  #tattle img {
-     width: 80px;
-     height: 75px;
-     margin-bottom: 15px
+     width: 40%;
+     height: 40%;
+      margin-bottom: 35px
  }
 
  #tattle {
@@ -204,8 +204,8 @@
  }
 
  .icon-div img {
-     width: 44px;
-     height: 40px;
+     width: 20px;
+     height: 30px;
  }
 
  footer p {
